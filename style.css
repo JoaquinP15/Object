@@ -1,0 +1,15 @@
+body{
+    background-color: lightskyblue;
+    color: aliceblue;
+}
+
+.heading{
+    width: 80%;
+    font-size: 20px;
+}
+
+#camera{
+    border: 2px dashed dodgerblue;
+    width: 380px;
+    height: 300px;
+}
